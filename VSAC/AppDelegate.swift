@@ -34,7 +34,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         MSAppCenter.start("acd315a1-3d67-4354-8147-7233bc716564", withServices:[
             MSAnalytics.self,
-            MSCrashes.selfCrash
+            MSCrashes.selfCrash 
             ])
         
         return true

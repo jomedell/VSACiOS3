@@ -43,7 +43,7 @@ npm install -g appcenter-cli
 
 echo ""
 
-echo "Build UI Test"
+echo "Build UI Test" 
 #
 #rm -rf DerivedData
 #xcrun xcodebuild build-for-testing \
